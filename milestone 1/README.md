@@ -19,8 +19,10 @@ MKEL1123_G8_Milestone1 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1
 
 ## Tools <img src= "https://user-images.githubusercontent.com/45865379/168462520-36c43467-2e6a-490a-bc73-97718746e810.png" width="25" height="25">:
 
-> - Black Pill (STM32F411CEU6) 
+> - Black Pill (STM32F411CEU6)
+   ![STM32 board](https://user-images.githubusercontent.com/43127923/168484496-1c579d80-2780-4d89-a25e-1528c6f6a567.jpeg)
 > - ST-LINK
+   ![STlink](https://user-images.githubusercontent.com/43127923/168484459-5615faba-0774-4376-af45-6eedd8631bbd.jpeg)
 > - STM32CubeIDE 
 > - USB cables (Optional)
 
