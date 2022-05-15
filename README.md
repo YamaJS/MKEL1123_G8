@@ -1,4 +1,10 @@
 # MKEL1123_G8_Milestone1
+# Group Member:
+> SIN HAU JIE 
+ 
+> HOR CHUN SHANG
+
+> CHEONG MEI YUET 
 
 ## Milestone 1 : STM32 Familiarization 
 
@@ -26,5 +32,3 @@
 
 ### YouTube link: 
 https://youtu.be/GOmmGItwFvQ
-
-### Code: 
