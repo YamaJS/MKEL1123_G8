@@ -29,8 +29,8 @@ MKEL1123_G8_Milestone1 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1
 > 2. Connect the ST-LINK debugger to the Black Pill (STM32) board.
 > 3. Connect an external LED to the Port PB0 of the Black Pill board if there is no onboard LED to be used.
 
-## Image of the board <img src= "https://user-images.githubusercontent.com/45865379/168462315-d77f724f-cd3c-4fa1-aa57-307de5195c1c.png" width="25" height="25">:
->The image above shows the board is powered up when the onboard led light up. After the board is successfully powered up, the board can be programmed to blink the LED at 1 Hz with the written C code.<br /> <img src= "https://user-images.githubusercontent.com/45865379/168460083-41721760-5304-4927-95de-9f458c13acdd.png" width="250" height="240">
+## Image of the board <img src= "https://user-images.githubusercontent.com/45865379/168462315-d77f724f-cd3c-4fa1-aa57-307de5195c1c.png" width="50" height="50">:
+>The image below shows the board is powered up when the onboard led light up. After the board is successfully powered up, the board can be programmed to blink the LED at 1 Hz with the written C code.<br /> <img src= "https://user-images.githubusercontent.com/45865379/168460083-41721760-5304-4927-95de-9f458c13acdd.png" width="250" height="240">
 ## YouTube link <img src= "https://user-images.githubusercontent.com/45865379/168462426-274bd5cd-7767-42ee-b1c2-61a3c919d559.png" width="25" height="25"> : 
 > - https://youtu.be/GOmmGItwFvQ
 
