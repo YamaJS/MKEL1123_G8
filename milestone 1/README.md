@@ -1,6 +1,6 @@
 # MKEL1123_G8_Milestone1 
 
-MKEL1123_G8_Milestone1 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1123) that will be completed by a group of UTM master students. The final goal of this mini-project is to implement a complete digital system using STM32 board. This project will be separated into 6 different milestones and in this repository, we will be focusing on the milestone 1 deliverables.
+MKEL1123_G8_Milestone1 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1123) that will be completed by a group of UTM master students. The final goal of this mini-project is to implement a complete digital system using STM32 board. This project will be separated into 6 different milestones and in this milestone 1 subfolder, we will be focusing on the milestone 1 deliverables.
 
 # Group Member:
 > - SIN HAU JIE 
