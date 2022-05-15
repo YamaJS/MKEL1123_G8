@@ -1,10 +1,11 @@
-# MKEL1123_G8_Milestone1
-# Group Member:
-> SIN HAU JIE 
- 
-> HOR CHUN SHANG
+# MKEL1123_G8_Milestone1 
 
-> CHEONG MEI YUET 
+MKEL1123_G8_Milestone1 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1123) that will be completed by a group of UTM master students. The final goal of this mini-project is to implement a complete digital system using STM32 board. This project will be separated into 6 different milestones and in this repository, we will be first focusing on the milestone 1 deliverables.
+
+# Group Member:
+> - SIN HAU JIE 
+> - HOR CHUN SHANG
+> - CHEONG MEI YUET 
 
 ## Milestone 1 : STM32 Familiarization 
 
@@ -12,12 +13,9 @@
 > Milestone 1 is completed for testing the usability of the STM32 board with simple code for verification. Black Pill STM32F411CEU6 board along with included ST-LINK device are used. To test the board, a simple code is ran to blink the LED on the board. The code is written using STM32CodeIDE software.  
 
 ### Objective <img src= "https://user-images.githubusercontent.com/45865379/168462578-eb967319-b4d0-4b30-9f85-dff5dd5dbc51.png" width="25" height="25">:
-
-> To get familiar with the STM32 IDE tool and firmaware development.
-
-> To verify the usability of the chosen STM32 board.
-
-> To get accustom with reporting milestones on GitHub.
+	- 1. To get familiar with the STM32 IDE tool and firmaware development.
+	- 2. To verify the usability of the chosen STM32 board.
+	- 3. To get accustom with reporting milestones on GitHub.
 
 ### Tools <img src= "https://user-images.githubusercontent.com/45865379/168462520-36c43467-2e6a-490a-bc73-97718746e810.png" width="25" height="25">:
 
