@@ -33,7 +33,7 @@ MKEL1123_G8_Milestone1 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1
 
 ## Image of the board <img src= "https://user-images.githubusercontent.com/45865379/168462315-d77f724f-cd3c-4fa1-aa57-307de5195c1c.png" width="25" height="25">:
 ![image](https://user-images.githubusercontent.com/45865379/168460083-41721760-5304-4927-95de-9f458c13acdd.png)
->The image above shows the board is powered up with the onboard led light up. After the board is successfully powered up, a C code is developed and we will program the board to blink the LED at 1 Hz.
+>The image above shows the board is powered up when the onboard led light up. After the board is successfully powered up, the board can be programmed to blink the LED at 1 Hz with the written C code.
 ## YouTube link <img src= "https://user-images.githubusercontent.com/45865379/168462426-274bd5cd-7767-42ee-b1c2-61a3c919d559.png" width="25" height="25"> : 
 > - https://youtu.be/GOmmGItwFvQ
 
