@@ -13,21 +13,18 @@ MKEL1123_G8_Milestone1 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1
 > Milestone 1 is completed for testing the usability of the STM32 board with simple code for verification. Black Pill STM32F411CEU6 board along with included ST-LINK device are used. To test the board, a simple code is ran to blink the LED on the board. The code is written using STM32CodeIDE software.  
 
 ### Objective <img src= "https://user-images.githubusercontent.com/45865379/168462578-eb967319-b4d0-4b30-9f85-dff5dd5dbc51.png" width="25" height="25">:
-	- 1. To get familiar with the STM32 IDE tool and firmaware development.
-	- 2. To verify the usability of the chosen STM32 board.
-	- 3. To get accustom with reporting milestones on GitHub.
+> 1. To get familiar with the STM32 IDE tool and firmaware development.
+> 2. To verify the usability of the chosen STM32 board.
+> 3. To get accustom with reporting milestones on GitHub.
 
 ### Tools <img src= "https://user-images.githubusercontent.com/45865379/168462520-36c43467-2e6a-490a-bc73-97718746e810.png" width="25" height="25">:
 
 > - Black Pill (STM32F411CEU6) 
-
 > - ST-LINK
-
 > - STM32CubeIDE 
-
 > - USB cables (Optional)
 
-### Installation <img src= "https://user-images.githubusercontent.com/43127923/168483132-1e6297bb-d04e-4653-a7d9-44f0d16064fa.png" width="25" height="25">: 
+### Installation <img src= "https://user-images.githubusercontent.com/43127923/168483419-f4ee28e3-7ccb-4fe0-9474-4dbfe7ac460d.png" width="25" height="25">: 
 > 1. Install STM32CubeIDE and all necessary drivers.
 > 2. Connect the ST-LINK debugger to the Black Pill (STM32) board.
 > 3. Connect an external LED to the Port PB0 of the Black Pill board if there is no onboard LED to be used.
