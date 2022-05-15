@@ -10,7 +10,7 @@ MKEL1123_G8_Milestone1 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1
 ## Milestone 1 : STM32 Familiarization 
 
 ### Description <img src= "https://user-images.githubusercontent.com/45865379/168462608-a1b06cee-bb4d-4be5-b836-d714153c4c0f.png" width="25" height="25">:
-> Milestone 1 is completed to verify the usability of the STM32 board with basic led blink code. A Black Pill STM32F411CEU6 board along with the ST-LINK V2 programmer are used. To test the cortex M4 chip, a basic c code which blinks the C13 on board LED for 1 second (1Hz) interval is compiled and programmed into the black chip. The on board LED should be expected to blink with 1 second interval with the connection of the ST-LINK V2 programmer or a standard USB type C cable. The c code is written and programmed into the black pill using STM32CodeIDE software.  
+> Milestone 1 is purposed to verify the usability of the STM32 board with basic led blink code. A Black Pill STM32F411CEU6 board along with the ST-LINK V2 programmer are used. To test the cortex M4 chip, a basic c code which blinks the C13 on board LED for 1 second (1Hz) interval is compiled and programmed into the black chip. The on board LED should be expected to blink with 1 second interval with the connection of the ST-LINK V2 programmer or a standard USB type C cable. The c code is written and programmed into the black pill using STM32CodeIDE software.  
 
 ### Objective <img src= "https://user-images.githubusercontent.com/45865379/168462578-eb967319-b4d0-4b30-9f85-dff5dd5dbc51.png" width="25" height="25">:
 > 1. To get familiar with the STM32 IDE tool and firmaware development.
