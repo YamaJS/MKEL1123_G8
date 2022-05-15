@@ -28,9 +28,9 @@ MKEL1123_G8_Milestone1 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1
 > USB cables (Optional)
 
 ### Installation
-> - 1. Install STM32CubeIDE and all necessary drivers.
-> - 2. Connect the ST-LINK debugger to the Black Pill (STM32) board.
-> - 3. Connect an external LED to the Port PB0 of the Black Pill board if there is no onboard LED to be used.
+- 1. Install STM32CubeIDE and all necessary drivers.
+- 2. Connect the ST-LINK debugger to the Black Pill (STM32) board.
+- 3. Connect an external LED to the Port PB0 of the Black Pill board if there is no onboard LED to be used.
 
 ### Image of the board <img src= "https://user-images.githubusercontent.com/45865379/168462315-d77f724f-cd3c-4fa1-aa57-307de5195c1c.png" width="25" height="25">:
 ![image](https://user-images.githubusercontent.com/45865379/168460083-41721760-5304-4927-95de-9f458c13acdd.png)
