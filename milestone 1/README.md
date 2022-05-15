@@ -19,13 +19,13 @@ MKEL1123_G8_Milestone1 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1
 
 ### Tools <img src= "https://user-images.githubusercontent.com/45865379/168462520-36c43467-2e6a-490a-bc73-97718746e810.png" width="25" height="25">:
 
-> Black Pill (STM32F411CEU6) 
+> - Black Pill (STM32F411CEU6) 
 
-> ST-LINK
+> - ST-LINK
 
-> STM32CubeIDE 
+> - STM32CubeIDE 
 
-> USB cables (Optional)
+> - USB cables (Optional)
 
 ### Installation <img src= "https://user-images.githubusercontent.com/43127923/168483132-1e6297bb-d04e-4653-a7d9-44f0d16064fa.png" width="25" height="25">: 
 > 1. Install STM32CubeIDE and all necessary drivers.
@@ -36,7 +36,7 @@ MKEL1123_G8_Milestone1 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1
 ![image](https://user-images.githubusercontent.com/45865379/168460083-41721760-5304-4927-95de-9f458c13acdd.png)
 
 ### YouTube link <img src= "https://user-images.githubusercontent.com/45865379/168462426-274bd5cd-7767-42ee-b1c2-61a3c919d559.png" width="25" height="25"> : 
-https://youtu.be/GOmmGItwFvQ
+> - https://youtu.be/GOmmGItwFvQ
 
 ### References <img src= "https://user-images.githubusercontent.com/43127923/168483161-affd204b-4baf-4c14-890d-1eb46fc409bc.png" width="25" height="25">: 
 > - https://www.youtube.com/watch?v=kXg467nVd_A&t=3s&ab_channel=NizarMohideen-MicroPeta
