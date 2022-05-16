@@ -4,5 +4,5 @@ This is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1123) subject that 
 
 # Group Member:
 > - SIN HAU JIE 
-> - HOR CHUN SHANG
+> - HOR CHONG SAN
 > - CHEONG MEI YUET 
