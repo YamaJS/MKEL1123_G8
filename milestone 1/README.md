@@ -4,7 +4,7 @@ MKEL1123_G8_Milestone1 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1
 
 # Group Member:
 > - SIN HAU JIE 
-> - HOR CHUN SHANG
+> - HOR CHONG SAN
 > - CHEONG MEI YUET 
 
 # Milestone 1 : STM32 Familiarization 
