@@ -28,10 +28,21 @@ MKEL1123_G8_Milestone4 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1
 > 10. Press ctrl + s to proceed to main.c code.
 > 11. Connect I2C pin for LCD as shown below :
 > ![image](https://user-images.githubusercontent.com/45865379/178192590-65df64fd-2fbf-4df0-afa1-09242f420e2e.png)
-> 12. Upload the code to stm32 black pill and proceed to observe the behaviour on the LCD screen display.
+> 12. Upload the "RTOS_FUNC_TEST"code to stm32 black pill and proceed to observe the behaviour on the LCD screen display.
 
 ### 4b. FOR DHT11_LCD:
+> 5. During Setup of .ioc file, Click Pinout and Configuration tab -> Click RCC → Click High Speed Clock (HSE) to Crystal/Ceramic Resonator
+> 6. Click Clock Configuration tab → Change HCLK (MHz) to 72
+> 7. Click Timer → Click TIM1 → Choose Internal Clock for Clock Source
+> 8. Under Configuration → Parameter Settings → Change Prescaler to 71.
+> 9. Click Pinout and Configuration tab -> Click Connectivity -> Click I2C1 -> In I2C tab -> Select I2C
+> 10. Set PB9 to GPIO_Output (DHT11 sensor input)
+> 11. Connect I2C LCD and DHT11 sensor as shown below:
+> ![image](https://user-images.githubusercontent.com/45865379/178212451-0cfcea7e-7c7d-4ff6-a334-3817da79d595.png)
+> 12. Upload the "DHT11_LCD_TEST" code to stm32 black pill and proceed to observe the behaviour on the LCD screen display.
 
 ## Tools 
-
-...
+> - Black Pill (STM32F411CEU6) <br /> <img src= "https://user-images.githubusercontent.com/43127923/168484496-1c579d80-2780-4d89-a25e-1528c6f6a567.jpeg" width="200" height="250">
+> - ST-LINK <br /> <img src= "https://user-images.githubusercontent.com/43127923/168484459-5615faba-0774-4376-af45-6eedd8631bbd.jpeg" width="200" height="250">
+> - STM32CubeIDE 
+> - USB cables (Optional)
