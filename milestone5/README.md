@@ -18,9 +18,9 @@ MKEL1123_G8_Milestone5 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1
 > 5. During Setup of .ioc file, Click Pinout and Configuration tab -> Click Middelware → Click FREERTOS → Select Interface to CMSIS_V1
 > 6. Configuration → Advanced Settings → USE_NEWLIB_REENTRANT (Enabled) 
 > 7. Configuration → Tasks and Queues → Assign Task Name, Entry Function and Priority as shown below:
-  - Task Name: Temp_High, Priority: osPriorityNormal
-  - Task Name: Temp_Check, Priority: osPriorityBelowNormal
-  - Task Name: LCD_Display, Priority: osPriorityBelowNormal1
+>  - Task Name: Temp_High, Priority: osPriorityNormal
+>  - Task Name: Temp_Check, Priority: osPriorityBelowNormal
+>  - Task Name: LCD_Display, Priority: osPriorityBelowNormal1
 > 8. Click Pinout and Configuration tab -> Click Connectivity -> Click I2C1 -> In I2C tab -> Select I2C
 > 9. Click Pinout and Configuration tab -> Click SYS -> Click Debug -> Click Serial Wire
 > 10. Press ctrl + s to proceed to main.c code.
@@ -48,4 +48,5 @@ MKEL1123_G8_Milestone5 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1
 > - DHT11 Temparature & Humidity Sensor  <br /> <img src= "https://user-images.githubusercontent.com/45865379/178213385-a45a5442-6e1b-4ffd-8b9f-c277fe649b6f.jpg" width="250" height="250">
 > - Bread Board   <br /> <img src= "https://user-images.githubusercontent.com/45865379/178213556-14a74749-6aea-4a26-916d-164d12bc26ad.png" width="500" height="250">
 
-
+## Demo Video:
+> - https://youtu.be/DK2Xmy2dNJ4
