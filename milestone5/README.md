@@ -1,20 +1,18 @@
-# MKEL1123_G8_Milestone4
+# MKEL1123_G8_Milestone5
 
-MKEL1123_G8_Milestone4 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1123) that will be completed by a group of UTM master students. The final goal of this mini-project is to implement a complete digital system using STM32 board. This project will be separated into 6 different milestones and in this milestone 1 subfolder, we will be focusing on the milestone 1 deliverables.
+MKEL1123_G8_Milestone5 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1123) that will be completed by a group of UTM master students. The final goal of this mini-project is to implement a complete digital system using STM32 board. This project will be separated into 6 different milestones and in this milestone 1 subfolder, we will be focusing on the milestone 1 deliverables.
 
 # Group Member:
 > - SIN HAU JIE 
 > - HOR CHONG SAN
 > - CHEONG MEI YUET 
 
-# Milestone 4 :  
-
-## Description 
+# Description 
 
 ## Procedure:
 > 1. Install STM32CubeIDE and all necessary drivers.
 > 2. Connect the ST-LINK debugger to the Black Pill (STM32) board.
-> 3. Connect an external LED to the Port PB0 of the Black Pill board if there is no onboard LED to be used.
+> 3. Connect an external LED to the Port PB0 of the Black Pill board if there is no onboard LED to be used. Step 4 will be seperated into 2 parts.
 
 ### 4a. FOR RTOS:
 > 5. During Setup of .ioc file, Click Pinout and Configuration tab -> Click Middelware → Click FREERTOS → Select Interface to CMSIS_V1
