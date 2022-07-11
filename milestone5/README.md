@@ -46,3 +46,8 @@ MKEL1123_G8_Milestone4 is a mini-project of ADVANCED MICROPROCESSOR SYSTEM(MKEL1
 > - ST-LINK <br /> <img src= "https://user-images.githubusercontent.com/43127923/168484459-5615faba-0774-4376-af45-6eedd8631bbd.jpeg" width="200" height="250">
 > - STM32CubeIDE 
 > - USB cables (Optional)
+> - LCD I2C Interface <br /> <img src= "https://user-images.githubusercontent.com/45865379/178213151-53627a98-90fd-44a5-ba75-cfbee9c14e34.jpg" width="250" height="250">
+> - DHT11 Temparature & Humidity Sensor  <br /> <img src= "https://user-images.githubusercontent.com/45865379/178213385-a45a5442-6e1b-4ffd-8b9f-c277fe649b6f.jpg" width="250" height="250">
+> - Bread Board   <br /> <img src= "https://user-images.githubusercontent.com/45865379/178213556-14a74749-6aea-4a26-916d-164d12bc26ad.png" width="500" height="250">
+
+
